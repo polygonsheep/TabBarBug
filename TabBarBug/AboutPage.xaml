@@ -5,7 +5,7 @@
              Title="AboutPage">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Welcome to .NET MAUI! Still has the bug in Net7"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
